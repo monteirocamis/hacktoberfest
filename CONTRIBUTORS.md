@@ -1,5 +1,11 @@
+
+#### Name: [CAMILA MONTEIRO](https://github.com/monteirocamis)
+- Place:  São Paulo, Brazil
+- Bio:  Front-End Developer.IoT and Ecofashion Designer.
+- GitHub: [rutuke](https://github.com/monteirocamis)
+
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
-- Place: Dublin, Ireland
+- Place: Dublin, Ireland 
 - Bio: Fullstack Web developer and a chemical sciences graduate.
 - GitHub: [rutuke](https://github.com/rutuke)
 - Website: [https://www.rutap.tech](https://www.rutap.tech)
